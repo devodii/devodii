@@ -15,6 +15,6 @@ I build softwares for fun and the betterment of mankind 🌎
 - Follow me on [Linkedin](https://linkedin.com/in/emmanuelodii) & [Twitter](https://x.com/devodii_).
 - Read my articles on [medium](https://medium.com/@emmanuelodii80)
 
-### Tech stack
-I'm opened to learn about new technologies if need be, but here are the ones that i feel very comfortable with.
+### Tech stack 🛠️
+I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
 React/Next.js, React Native/Expo Typescript, Express/Nest.js, SQL/PostgreSQL, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
