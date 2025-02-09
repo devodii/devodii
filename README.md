@@ -17,4 +17,5 @@ I build softwares for fun and the betterment of mankind 🌎
 
 ### Tech stack 🛠️
 I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
-React/Next.js, React Native/Expo Typescript, Express/Nest.js, SQL/PostgreSQL, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
+<br />
+React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
