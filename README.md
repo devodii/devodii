@@ -4,7 +4,7 @@ I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
 - 🔮 AI powered Tarot and Astrology solution at [TarotMaster](https://tarotmaster.ai).
-- 👯‍♂️ Facebook chrome extension to get compatibility readings with friends (for TarotMaster) [check it ouy](https://chromewebstore.google.com/detail/tarotmaster-facebook/eoblcfipabejidpknbojplldkpjjcpon?authuser=0&hl=en)
+- 👯‍♂️ Facebook chrome extension to get compatibility readings with friends (for TarotMaster) [check it out](https://chromewebstore.google.com/detail/tarotmaster-facebook/eoblcfipabejidpknbojplldkpjjcpon?authuser=0&hl=en)
 - 🚒 Worked part time with [Minimo](https://minimo.it) to build the world best Automations software
 - 💸 Helping people understand their financial status [spends.info](https://www.spends.info)
 - 🎗️ Helping people Build better forms FAST with [AsapForms](https://asap-forms.vercel.app)
