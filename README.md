@@ -16,7 +16,7 @@ I build softwares for fun and the betterment of mankind 🌎
 - Read my articles on [medium](https://medium.com/@emmanuelodii80)
 
 ### Achievements 🏆
-- 100k+ reads on my article about the end of usestate, [check it out](https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb_)
+- 100k+ reads on my article about [the end of usestate](https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb)
 - 550k impressions on a [post about my workspace](https://www.linkedin.com/feed/update/urn:li:activity:7198706499324416000/)
 
 ### Tech stack 🛠️
@@ -24,4 +24,4 @@ I'm opened to learning new technologies if need be, but here are the ones that i
 <br />
 React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
 
-Feel free to checkout my [website](https://odii.vercel.app) for more information.
+Feel free to send an email to emmanuelodii80@gmail.com if you'd like us to work together 🤩
