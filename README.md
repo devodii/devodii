@@ -3,12 +3,9 @@
 I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
-- 🔮 AI powered Tarot and Astrology solution at [TarotMaster](https://tarotmaster.ai).
-- 👯‍♂️ Facebook chrome extension to get compatibility readings with friends (for TarotMaster) [check it out](https://chromewebstore.google.com/detail/tarotmaster-facebook/eoblcfipabejidpknbojplldkpjjcpon?authuser=0&hl=en)
-- 🚒 Worked part time with [Minimo](https://minimo.it) to build the world best Automations software
-- 💸 Helping people understand their financial status [spends.info](https://www.spends.info)
-- 🎗️ Helping people Build better forms FAST with [AsapForms](https://asap-forms.vercel.app)
-
+- 🔮 [TarotMaster](https://tarotmaster.ai), AI powered Tarot and Astrology solution via mobile & web app and chrome extension.
+- 🎓 ClassyNotes, #1 space for students to connect with study buddies, also helping researchers get more eyes on their researches.
+- 💸 [Paykit SDK](https://github.com/devodii/paykit), Payment Toolkit for Typescript that supports various providers e.g stripe, polar, lemonsqueezy, square, etc.
 
 ### Around the web 🧭
 - Checkout my [website](https://odii.vercel.app)
@@ -22,6 +19,6 @@ I build softwares for fun and the betterment of mankind 🌎
 ### Tech stack 🛠️
 I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
 <br />
-React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
+React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Supabase, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, 
 
 Feel free to send an email to emmanuelodii80@gmail.com if you'd like us to work together 🤩
