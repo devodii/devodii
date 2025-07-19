@@ -5,7 +5,7 @@ I build softwares for fun and the betterment of mankind 🌎
 ### Projects 📌
 - 🔮 [TarotMaster](https://tarotmaster.ai), AI powered Tarot and Astrology solution via mobile & web app and chrome extension.
 - 🎓 [ClassyNotes](https://www.classynotes.app), #1 space for students to connect with study buddies, also helping researchers get more eyes on their researches.
-- 💸 [Paykit SDK](https://github.com/devodii/paykit), Payment Toolkit for Typescript that supports various providers e.g stripe, polar, lemonsqueezy, square, etc.
+- 💸 [Paykit SDK](https://paykit-web.vercel.app), Payment Toolkit for Typescript that supports various providers e.g stripe, polar, lemonsqueezy, square, etc.
 
 ### Around the web 🧭
 - Checkout my [website](https://odii.vercel.app)
