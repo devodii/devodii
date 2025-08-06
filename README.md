@@ -8,13 +8,13 @@ I build softwares for fun and the betterment of mankind 🌎
 - 💸 [Paykit SDK](https://usepaykit.dev) — Full stack Payment Toolkit for Typescript.
 
 ### Around the web 🧭
-- Checkout my [website](https://odii.vercel.app)
+- Checkout my [Website](https://odii.vercel.app)
 - Follow me on [Linkedin](https://linkedin.com/in/emmanuelodii) & [Twitter](https://x.com/devodii_).
-- Read my articles on [medium](https://medium.com/@emmanuelodii80)
+- Read my articles on [Medium](https://medium.com/@emmanuelodii80)
 
 ### Achievements 🏆
-- 100k+ reads on my article about [the end of usestate](https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb)
-- 550k+ impressions on a [post about my workspace](https://www.linkedin.com/feed/update/urn:li:activity:7198706499324416000/)
+- 100k+ reads on my article about [The End of React usestate](https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb)
+- 550k+ impressions on a post [About My Workspace at 17](https://www.linkedin.com/feed/update/urn:li:activity:7198706499324416000/)
 
 ### Tech stack 🛠️
 I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
