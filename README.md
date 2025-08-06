@@ -1,4 +1,4 @@
-## Hi, I'm Emmanuel 👋🏼
+## Hi, I'm Emmanuel (Nigeria, 19)
 
 I build softwares for fun and the betterment of mankind 🌎
 
