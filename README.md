@@ -4,13 +4,13 @@ I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
 - 💸 [Paykit SDK](https://usepaykit.dev) — The missing infrastructure between developers and payment providers.
-- 💸 [Stellar Tools] - Stripe for Stellar blockchain
+- 💸 [Stellar Tools](https://stellartools.vercel.app) - Stripe for Stellar blockchain
 - 🔮 [TarotMaster](https://tarotmaster.ai) — AI powered Tarot and Astrology solution via mobile, web app and chrome extension.
 - 🎓 [ClassyNotes](https://www.classynotes.app) — #1 space for students to connect with study buddies, also helping researchers get more eyes on their researches.
 
 ### Around the web 🧭
 - Checkout my [Website](https://odii.site)
-- Follow me on [Linkedin](https://linkedin.com/in/emmanuelodii) & [Twitter](https://x.com/devodii_).
+- Follow me on [Linkedin](https://linkedin.com/in/emmanuelodii) & [Twitter/X](https://x.com/devodii_).
 - Read my articles on [Medium](https://medium.com/@emmanuelodii80)
 
 ### Memo 📑
