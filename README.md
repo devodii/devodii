@@ -6,8 +6,9 @@ I build softwares for fun and the betterment of mankind 🌎
 - 💸 [Paykit SDK](https://usepaykit.dev) — The missing infrastructure between developers and payment providers.
 - 💸 [Stellar Tools](https://stellartools.vercel.app) - Stripe for Stellar blockchain
 - 🔮 [TarotMaster](https://tarotmaster.ai) — AI powered Tarot and Astrology solution via mobile, web app and chrome extension.
+- 🧩 [50kb.lol](https://50kb.lol/) — opinionated image compressor that forces images under 50kb across multiple formats.
 - 🎓 [ClassyNotes](https://www.classynotes.app) — #1 space for students to connect with study buddies, also helping researchers get more eyes on their researches.
-- 🗜️ [50kb.lol](https://50kb.lol/) — opinionated image compressor that forces images under 50kb across multiple formats.
+
 
 ### Around the web 🧭
 - Checkout my [Website](https://odii.site)
