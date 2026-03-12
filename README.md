@@ -19,6 +19,7 @@ I build softwares for fun and the betterment of mankind 🌎
 - [The Great lock-in with my friends during holidays to ship v1 of stellartools](https://www.linkedin.com/posts/emmanuelodii_were-locked-in-for-10-days-to-simplify-payments-activity-7406998650612137986--biI)
 - [120k+ reads on my article about The End of React usestate](https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb)
 - [550k+ impressions on a post about my workspace at 17](https://www.linkedin.com/feed/update/urn:li:activity:7198706499324416000/)
+- [Why i built 50kb.lol after my school required images under 50kb for some online forms](https://medium.com/@emmanuelodii80/my-university-built-an-online-form-student-couldnt-actually-use-6c1e49554f55)
 
 ### Tech stack 🛠️
 I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
