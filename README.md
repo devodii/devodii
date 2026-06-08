@@ -3,7 +3,7 @@
 I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
-- 💸 [Paykit SDK](https://usepaykit.dev) — The missing infrastructure between developers and payment providers.
+- 💸 [Payroutes](https://payroutes.sh) — The missing infrastructure between developers and payment providers.
 - 💸 [Stellar Tools](https://stellartools.dev) - The financial infrastructure for the Stellar economy
 - 🔮 [TarotMaster](https://tarotmaster.ai) — AI powered Tarot and Astrology solution via mobile, web app and chrome extension.
 - 🧩 [50kb.lol](https://50kb.lol/) — An opinionated image compressor that forces images under 50kb across multiple formats.
