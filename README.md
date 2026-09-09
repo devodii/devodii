@@ -7,8 +7,6 @@ I build softwares for fun and the betterment of mankind 🌎
 - 💸 [Stellar Tools](https://stellartools.dev) - The financial infrastructure for the Stellar economy
 - 🔮 [TarotMaster](https://tarotmaster.ai) — AI powered Tarot and Astrology solution via mobile, web app and chrome extension.
 - 🧩 [50kb.lol](https://50kb.lol/) — An opinionated image compressor that forces images under 50kb across multiple formats.
-- 🎓 [ClassyNotes](https://www.classynotes.app) — #1 space for students to connect with study buddies, also helping researchers get more eyes on their researches.
-
 
 ### Around the web 🧭
 - Checkout my [Website](https://odii.site)
