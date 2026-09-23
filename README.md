@@ -3,10 +3,12 @@
 I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
-- 💸 [PayKit SDK](https://usepaykit.dev) — Unified API for different payment providers e.g stripe, paypal etc 
+- 💸 [PayKit SDK](https://usepaykit.dev) - Unified API for different payment providers e.g Stripe, PayPal etc
 - 💸 [Stellar Tools](https://stellartools.dev) - The financial infrastructure for the Stellar economy
-- 🔮 [TarotMaster](https://tarotmaster.ai) — AI powered Tarot and Astrology solution via mobile, web app and chrome extension.
-- 🧩 [50kb.lol](https://50kb.lol/) — An opinionated image compressor that forces images under 50kb across multiple formats.
+- 🔮 [TarotMaster](https://tarotmaster.ai) - AI powered Tarot and Astrology solution via mobile, web app and chrome extension
+- 🧩 [50kb.lol](https://50kb.lol/) - An opinionated image compressor that forces images under 50kb across multiple formats
+- 📈 [SoroShares](https://soroshares.vercel.app) - Tokenized IPO shares on Stellar, bringing public offerings onchain
+- ⚛️ [SoroKit](https://www.sorokit.xyz/) - React/Next.js SDK for Stellar and Soroban, typed hooks and codegen from contract specs
 
 ### Around the web 🧭
 - Checkout my [Website](https://odii.site)
@@ -22,6 +24,4 @@ I build softwares for fun and the betterment of mankind 🌎
 ### Tech stack 🛠️
 I'm opened to learning new technologies if need be, but here are the ones that i feel very comfortable with.
 <br />
-React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Supabase, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, Rust. 
-
-Feel free to send an email to emmanuelodii80@gmail.com if you'd like us to work together.
+React/Next.js, React Native/Expo, Typescript, Express/Nest.js, SQL/PostgreSQL, Supabase, Drizzle/Prisma/TypeORM, MongoDB, Storybook JS, Python. 
