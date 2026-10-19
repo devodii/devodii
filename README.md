@@ -5,6 +5,7 @@ I build softwares for fun and the betterment of mankind 🌎
 ### Projects 📌
 - 💸 [PayKit SDK](https://usepaykit.dev) - Unified API for different payment providers e.g Stripe, PayPal etc
 - 💸 [Stellar Tools](https://stellartools.dev) - The financial infrastructure for the Stellar economy
+- 🤖 [Stellar Harness](https://stellarharness.xyz) - An Ops agent that fixes problems on Stellar
 - 🔮 [TarotMaster](https://tarotmaster.ai) - AI powered Tarot and Astrology solution via mobile, web app and chrome extension
 - 🧩 [50kb.lol](https://50kb.lol/) - An opinionated image compressor that forces images under 50kb across multiple formats
 - 📈 [SoroShares](https://soroshares.vercel.app) - Tokenized IPO shares on Stellar, bringing public offerings onchain
