@@ -4,6 +4,7 @@ I build softwares for fun and the betterment of mankind 🌎
 
 ### Projects 📌
 - 💸 [PayKit SDK](https://usepaykit.dev) - Unified API for different payment providers e.g Stripe, PayPal etc
+- 🔭 [HackProof](https://hackproof-six.vercel.app) - Everything built at HackMeridian 2026, rebuilt from the Stellar testnet and public repos
 - 💸 [Stellar Tools](https://stellartools.dev) - The financial infrastructure for the Stellar economy
 - 🤖 [Stellar Harness](https://stellarharness.xyz) - An Ops agent that fixes problems on Stellar
 - 🔮 [TarotMaster](https://tarotmaster.ai) - AI powered Tarot and Astrology solution via mobile, web app and chrome extension
